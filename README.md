@@ -233,7 +233,7 @@ The final Wazuh screenshot shows VirusTotal integration event records associated
 
 *Figure 17 — Wazuh event documents enriched with VirusTotal results for safe EICAR test samples.*
 
-**Finding:** The screenshot provides evidence that **VirusTotal-enriched records were visible in Wazuh** for the test sample. It does **not** prove a real malicious intrusion, automated file quarantine, or a completed incident-response action.
+**Finding:** The screenshot provides evidence that **VirusTotal-enriched records were visible in Wazuh** for the test sample.
 
 ---
 
@@ -271,9 +271,7 @@ The most useful lessons were distinguishing enrolled endpoints from merely confi
 
 ## Evidence Index
 
-The exact origin of each image is documented in [`SCREENSHOT-GUIDE.md`](SCREENSHOT-GUIDE.md). All images in this repository were extracted from my *Cyber Home Lab Doc 1.docx* and are referenced using local relative paths in `screenshots/`.
-
-**Security note:** Installation output originally contained Wazuh-generated passwords. The published installation screenshot has been cropped and redacted to prevent accidental credential disclosure. Credentials associated with any live deployment should be rotated before publishing evidence from an installation.
+The exact origin of each image is documented in [`SCREENSHOT-GUIDE.md`](SCREENSHOT-GUIDE.md). All images in this repository were extracted from my Cyber Home and are referenced using local relative paths in `screenshots/`.
 
 ## References
 
