@@ -11,7 +11,7 @@
 **Type:** Controlled home-lab security monitoring and endpoint visibility  
 **Focus:** Wazuh deployment, agent telemetry, vulnerability detection, file integrity configuration, and VirusTotal enrichment
 
-> **Scope:** This README uses screenshots from my *Cyber Home Lab Doc 1.docx*. Screenshots demonstrate the workflow and point-in-time results described below. They are not evidence of production deployment, live malware infection, or automatic incident containment.
+> **Scope:** This README uses screenshots from my Cyber Home Lab. Screenshots demonstrate the workflow and point-in-time results described below.
 
 ## Objective
 
