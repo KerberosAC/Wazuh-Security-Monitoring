@@ -6,10 +6,9 @@
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-183A61?style=for-the-badge)](https://www.virtualbox.org/)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-Threat%20Intelligence-394EFF?style=for-the-badge)](https://www.virustotal.com/)
 
-**Project:** Cybersecurity Home Lab — Wazuh Security Monitoring  
-**Documented by:** Alexander Cox  
+**Project:** Cybersecurity Home Lab - Wazuh Security Monitoring  
 **Type:** Controlled home-lab security monitoring and endpoint visibility  
-**Focus:** Wazuh deployment, agent telemetry, vulnerability detection, file integrity configuration, and VirusTotal enrichment
+**Focus:** Wazuh deployment, agent telemetry, vulnerability detection, file integrity configuration, and VirusTotal
 
 > **Scope:** This README uses screenshots from my Cyber Home Lab. Screenshots demonstrate the workflow and point-in-time results described below.
 
